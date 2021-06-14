@@ -21,7 +21,7 @@
   position:absolute;
   z-index:0;
 }
-#u45_img {
+#u46_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -29,7 +29,7 @@
   width:1660px;
   height:836px;
 }
-#u45 {
+#u46 {
   border-width:0px;
   position:absolute;
   left:240px;
@@ -38,51 +38,10 @@
   height:836px;
   display:flex;
 }
-#u45 .text {
-  position:absolute;
-  align-self:center;
-  padding:2px 2px 2px 2px;
-  box-sizing:border-box;
-  width:100%;
-}
-#u45_text {
-  border-width:0px;
-  word-wrap:break-word;
-  text-transform:none;
-  visibility:hidden;
-}
-#u46_div {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:401px;
-  height:30px;
-  background:inherit;
-  background-color:rgba(0, 0, 255, 1);
-  box-sizing:border-box;
-  border-width:1px;
-  border-style:solid;
-  border-color:rgba(121, 121, 121, 1);
-  border-radius:7px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-}
-#u46 {
-  border-width:0px;
-  position:absolute;
-  left:779px;
-  top:442px;
-  width:401px;
-  height:30px;
-  display:flex;
-  opacity:0;
-}
 #u46 .text {
   position:absolute;
   align-self:center;
-  padding:10px 10px 10px 10px;
+  padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
@@ -179,6 +138,47 @@
   width:100%;
 }
 #u49_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u50_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:401px;
+  height:30px;
+  background:inherit;
+  background-color:rgba(0, 0, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(121, 121, 121, 1);
+  border-radius:7px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u50 {
+  border-width:0px;
+  position:absolute;
+  left:779px;
+  top:442px;
+  width:401px;
+  height:30px;
+  display:flex;
+  opacity:0;
+}
+#u50 .text {
+  position:absolute;
+  align-self:center;
+  padding:10px 10px 10px 10px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u50_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
