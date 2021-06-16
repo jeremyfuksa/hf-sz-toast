@@ -123,34 +123,3 @@
   text-transform:none;
   visibility:hidden;
 }
-#u57_img {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:16px;
-  height:16px;
-}
-#u57 {
-  border-width:0px;
-  position:absolute;
-  left:1866px;
-  top:42px;
-  width:16px;
-  height:16px;
-  display:flex;
-  font-size:10px;
-  color:#FFFFFF;
-}
-#u57 .text {
-  position:absolute;
-  align-self:center;
-  padding:2px 2px 2px 2px;
-  box-sizing:border-box;
-  width:100%;
-}
-#u57_text {
-  border-width:0px;
-  word-wrap:break-word;
-  text-transform:none;
-}
